@@ -6,7 +6,7 @@ Spotify already offers the option to sort songs by artist, but this is only stor
 ![Screenshot](https://github.com/mylania/Sortify/blob/main/Artist.png)
 
 ## Installation
-Install [Spicetify](https://spicetify.app/) first. To install the extension, first download Sortify.js from [here](https://github.com/Xeralin/Sortify/blob/main/Sortify.js). Then you need to enter a few commands in the terminal.
+Install [Spicetify](https://spicetify.app/) first. To install the extension, first download Sortify.js from [here](https://github.com/Xeralin/Sortify/releases/download/spicetify-extensions/Sortify.js). Then you need to enter a few commands in the terminal.
 First, open the Spicetify folder:
 ```bash
 spicetify config-dir
