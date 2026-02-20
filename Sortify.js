@@ -48,7 +48,7 @@
   }
 
   new Spicetify.ContextMenu.Item(
-    "Nach Interpret sortieren",
+    "Sort by artist",
     sortPlaylistByArtist,
     (uris) => uris?.length === 1 && Spicetify.URI.isPlaylistV1OrV2(uris[0]),
     "artist"
