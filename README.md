@@ -1,6 +1,6 @@
 
 # Sortify
-With this **Spicetify** extension, you can sort your playlist by artist! <br/>
+With this **[Spicetify](https://spicetify.app/)** extension, you can sort your playlist by artist! <br/>
 Spotify already offers the option to sort songs by artist, but this is only stored locally. The extension creates a new playlist and automatically replaces the unsorted playlist.
 
 <br/>
