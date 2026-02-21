@@ -2,7 +2,7 @@
 **With this [Spicetify](https://spicetify.app/) extension, you can sort your playlist by artist!** <br/>
 Spotify already offers the option to sort songs by artist, but this is only stored locally. The extension creates a new playlist and automatically replaces the unsorted playlist.
 
-![Screenshot](https://github.com/mylania/Sortify/blob/main/Artist.png)
+![Screenshot](https://github.com/mylania/Sortify/blob/main/Preview.png)
 
 ## Installation
 Install [Spicetify](https://spicetify.app/) first. To install the extension, download **Sortify.js** from [here](https://github.com/Xeralin/Sortify/releases/download/spicetify-extensions/Sortify.js). Then you need to enter a few commands in the terminal.
